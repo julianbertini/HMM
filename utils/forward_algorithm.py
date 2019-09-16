@@ -1,5 +1,5 @@
 import numpy as np
-from common import Common
+from .common import Common
 #
 #
 #

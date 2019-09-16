@@ -1,6 +1,6 @@
 import numpy as np
-from common import Common
-from forward_algorithm import ForwardAlgorithm
+from .common import Common
+from .forward_algorithm import ForwardAlgorithm
 #
 #
 #

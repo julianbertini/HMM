@@ -1,7 +1,7 @@
 import numpy as np
-from common import Common
-from forward_algorithm import ForwardAlgorithm
-from backward_algorithm import BackwardAlgorithm
+from .common import Common
+from .forward_algorithm import ForwardAlgorithm
+from .backward_algorithm import BackwardAlgorithm
 #
 #
 #

@@ -1,5 +1,5 @@
 import numpy as np
-from common import Common
+from .common import Common
 #
 # Greedy algorithm that determines MAX probability of a sequence of states
 # that result in sequence of obervations
