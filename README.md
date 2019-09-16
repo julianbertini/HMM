@@ -19,4 +19,4 @@ A prototype implementation of a Hidden Markov Model
 - [See "An interactive spreadsheet for teaching the forward-backward algorithm"](https://cs.jhu.edu/~jason/papers/eisner.tnlp02.pdf)
 - [Nice chapter on the theory behind HMM](https://cs.jhu.edu/~jason/papers/jurafsky+martin.slp3draft.ch9.pdf)
 - [Another paper that presents the theory in a different way](http://cs229.stanford.edu/section/cs229-hmm.pdf)
-- [Overview of theory of original paper](https://ieeexplore.ieee.org/abstract/document/18626)
+- [Overview of theory of original paper](https://www.cs.cmu.edu/~cga/behavior/rabiner1.pdf)
